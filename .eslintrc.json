@@ -1,9 +1,7 @@
 {
   "extends": ["next/core-web-vitals", "prettier"],
-    "plugins": ["turbo"],
   "rules": {
     "max-params": ["error", 4],
-    "prefer-const": "error",
-    "turbo/no-undeclared-env-vars": "error"
+    "prefer-const": "error"
   }
 }

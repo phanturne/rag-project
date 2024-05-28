@@ -1,4 +1,3 @@
-/* eslint-disable turbo/no-undeclared-env-vars */
 import { VectorStoreIndex } from "llamaindex";
 import { PineconeVectorStore } from "llamaindex/storage/vectorStore/PineconeVectorStore";
 import { checkRequiredEnvVars } from "./shared";
