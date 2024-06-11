@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain-openai
+langchainhub
+chromadb
+nest_asyncio
+pandas
+llama_parse
+unstructured
+markdown
