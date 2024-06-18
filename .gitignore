@@ -38,3 +38,7 @@ tool-output/
 
 # IDE
 /.idea
+
+#python
+__pycache__/
+*.pyc
