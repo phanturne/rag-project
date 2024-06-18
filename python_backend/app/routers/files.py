@@ -10,6 +10,7 @@ os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 @router.post("/uploadfile/")
 async def upload_file(background_tasks: BackgroundTasks, file: UploadFile = File(...)):
+    print(f"Received file: {file.filename}")
     if not file.filename.split(".")[-1] in ALLOWED_EXTENSIONS:
         raise HTTPException(status_code=400, detail="File type not allowed")
     
@@ -17,6 +18,6 @@ async def upload_file(background_tasks: BackgroundTasks, file: UploadFile = File
     await save_upload_file(file, file_location)
 
     # Correctly add file parsing to background tasks
-    background_tasks.add_task(parse_file, file_location)
+    parse_file(file_location, background_tasks)
 
     return {"filename": file.filename, "status": "File uploaded successfully. Parsing in progress."}
