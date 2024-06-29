@@ -10,65 +10,52 @@ We encourage you to review our onboarding information and to watch our OMSCS Ori
 
 # TABLE OF CONTENTS(Hyperlinked)
 
-# SECTION A. ACADEMIC POLICIES
+SECTION A. ACADEMIC POLICIES
 
-# SECTION B. FOUNDATIONAL COURSE REQUIREMENT
+SECTION B. FOUNDATIONAL COURSE REQUIREMENT
 
-# SECTION C. DEGREE REQUIREMENTS
+SECTION C. DEGREE REQUIREMENTS
 
-# SECTION D. REGISTRATION TIME TICKETS
+SECTION D. REGISTRATION TIME TICKETS
 
-# SECTION E. REGISTRATION HOLDS
+SECTION E. REGISTRATION HOLDS
 
-# SECTION F. REGISTER FOR CLASSES
+SECTION F. REGISTER FOR CLASSES
 
-To prepare for registration...
+- To prepare for registration...
+- If a course is CLOSED...
 
-If a course is CLOSED...
+SECTION G. WAITLISTING FOR A CLOSED COURSE
 
-# SECTION G. WAITLISTING FOR A CLOSED COURSE
+- Things to know about waitlisting...
+- Checking your wait list number…
+- “Free for all” registration period…
 
-Things to know about waitlisting...
+SECTION H. DROPPING/WITHDRAWING FROM A COURSE(S)
 
-Checking your wait list number…
+SECTION I. SYSTEMS YOU WILL BE USING AND WHY
 
-“Free for all” registration period…
+SECTION J. IMPORTANT DATES FOR THE SPRING 2024 SEMESTER
 
-# SECTION H. DROPPING/WITHDRAWING FROM A COURSE(S)
+SECTION K. FREQUENTLY ASKED QUESTIONS (FAQs)
 
-# SECTION I. SYSTEMS YOU WILL BE USING AND WHY
+- New Student Onboarding/GT Email Account
+- Institute Services & Course-Related Resources
+- Deferring Admission
+- Degree Requirements
+- Foundational Requirement
+- Course/Program Planning
+- Grades/GPA Requirement
+- Registration-Related Information
+- Payments & Financial Information
+- Taking Time Off
+- Graduation
 
-# SECTION J. IMPORTANT DATES FOR THE SPRING 2024 SEMESTER
+SECTION L. GEORGIA TECH DIRECTORY INFORMATION
 
-# SECTION K. FREQUENTLY ASKED QUESTIONS (FAQs)
+SECTION M. GET CONNECTED!
 
-New Student Onboarding/GT Email Account
-
-Institute Services & Course-Related Resources
-
-Deferring Admission
-
-Degree Requirements
-
-Foundational Requirement
-
-Course/Program Planning
-
-Grades/GPA Requirement
-
-Registration-Related Information
-
-Payments & Financial Information
-
-Taking Time Off
-
-Graduation
-
-# SECTION L. GEORGIA TECH DIRECTORY INFORMATION
-
-# SECTION M. GET CONNECTED!
-
-# SECTION N. OMSCS ADVISING CONTACT INFORMATION
+SECTION N. OMSCS ADVISING CONTACT INFORMATION
 
 Click here to return to Table of Contents
 ---
@@ -117,8 +104,6 @@ Please take time to view the current MSCS degree requirements here. The OMSCS pr
 - Human-Computer Interaction
 - Interactive Intelligence
 - Machine Learning
-
-Click here to return to Table of Contents
 ---
 # SECTION D. REGISTRATION TIME TICKETS
 
@@ -150,19 +135,22 @@ Click here to return to Table of Contents
 ---
 # SECTION F. REGISTER FOR CLASSES
 
-●    Remember that all times and deadlines are based on the Eastern time zone.
-●    Registration dates can be found on the Academic Calendar on the Registrar’s website.
-●    Registration begins on January 4 and ends on January 12 at 4:00pm ET.
-●    Please check your time ticket to see the exact day and time you can begin registering.
-●    You will NOT be able to add/drop classes AFTER 4:00pm ET on Friday, January 12.
+● Remember that all times and deadlines are based on the Eastern time zone.
+
+● Registration dates can be found on the Academic Calendar on the Registrar’s website.
+
+● Registration begins on January 4 and ends on January 12 at 4:00pm ET.
+
+● Please check your time ticket to see the exact day and time you can begin registering.
+
+● You will NOT be able to add/drop classes AFTER 4:00pm ET on Friday, January 12.
 
 To prepare for registration:
 
-1. First, be sure your status is “Student” and NOT “Applicant”. You may not activate your GT account until that
-changes, and it will change about a week before registration begins. **Please do not contact our office prior
-to the week before registration regarding this, as advisors are unable to change statuses.**
+1. First, be sure your status is “Student” and NOT “Applicant”. You may not activate your GT account until that changes, and it will change about a week before registration begins. Please do not contact our office prior to the week before registration regarding this, as advisors are unable to change statuses.
 
 To check your status:
+
 - Log into OSCAR using your GT credentials via the Secured Access Login.
 - Select Student Services & Financial Aid.
 - Select Registration.
@@ -170,35 +158,20 @@ To check your status:
 - Select the Spring 2024 term.
 - Click SUBMIT.
 2. Activate your GT email account here.
-3. The Institute, as well as the department, will use this email address as your official contact. You are required to
-keep it active, and you are expected to read your email DAILY as per the Institute’s policy. This is true
-even if you are sitting out a semester.
+3. The Institute, as well as the department, will use this email address as your official contact. You are required to keep it active, and you are expected to read your email DAILY as per the Institute’s policy. This is true even if you are sitting out a semester.
 
-PLEASE NOTE: The Registrar’s Office is responsible for updating all admitted students’ access in our system,
-which will prompt OIT to create your GT email account closer to the start of the semester. Once this has been
-done, it is our understanding that you should receive a message from OIT to your personal email account about
-how to set up your GT email account. If you are having issues with activating your GT email account, please
-contact OIT for assistance. Unfortunately, TSO will not be able to assist with this.
-4. Two-factor authentication is required for all GT students. Please follow the directions online to set up Duo.
-Failing to set up Duo will result in being locked out of your account.
+PLEASE NOTE: The Registrar’s Office is responsible for updating all admitted students’ access in our system, which will prompt OIT to create your GT email account closer to the start of the semester. Once this has been done, it is our understanding that you should receive a message from OIT to your personal email account about how to set up your GT email account. If you are having issues with activating your GT email account, please contact OIT for assistance. Unfortunately, TSO will not be able to assist with this.
+4. Two-factor authentication is required for all GT students. Please follow the directions online to set up Duo. Failing to set up Duo will result in being locked out of your account.
 5. The courses that are available for Spring 2024 can be found by performing a search in OSCAR.
 6. Most OMSCS courses will have a section of “O” (example: O01, O02, O03, etc.).
 7. Registration is first come, first served, so you will want to register as soon as your time ticket opens.
-8. You can narrow your search in the Schedule of Classes by designating the Campus to “Online”. Please keep in
-mind that there are multiple course subjects offered in the OMSCS program; therefore, be sure to do a search on
-“CS” (Computer Science), “CSE” (Computational Science and Engineering), “ECE” (Electrical and Computer
-Engineering), “INTA” (International Affairs), “ISYE” (Industrial and Systems Engineering), “MGT” (Management),
-and “PUBP” (Public Policy) for a full listing of the online courses offered.
+8. You can narrow your search in the Schedule of Classes by designating the Campus to “Online”. Please keep in mind that there are multiple course subjects offered in the OMSCS program; therefore, be sure to do a search on “CS” (Computer Science), “CSE” (Computational Science and Engineering), “ECE” (Electrical and Computer Engineering), “INTA” (International Affairs), “ISYE” (Industrial and Systems Engineering), “MGT” (Management), and “PUBP” (Public Policy) for a full listing of the online courses offered.
 
-Some of these courses will be offered with the OMS Analytics or the OMS Cybersecurity programs, so
-please be mindful when selecting courses that you are choosing the section that is designated for
-OMSCS students. Some sections are restricted to OMS Analytics students and are designated with the
-“OAN” section. Other sections are restricted to OMS Cybersecurity students and are designated with the
-“OCY” section. If an OMS Analytics or OMS Cybersecurity course has a section created for OMSCS
-students, it will have a section of “O” followed by a two-digit number (example: O01, O02, O03, etc.).
+Some of these courses will be offered with the OMS Analytics or the OMS Cybersecurity programs, so please be mindful when selecting courses that you are choosing the section that is designated for OMSCS students. Some sections are restricted to OMS Analytics students and are designated with the “OAN” section. Other sections are restricted to OMS Cybersecurity students and are designated with the “OCY” section. If an OMS Analytics or OMS Cybersecurity course has a section created for OMSCS students, it will have a section of “O” followed by a two-digit number (example: O01, O02, O03, etc.).
 
 ***Please remember that per the program rules:
-"A maximum of six hours may be taken at the 4000-level and/or with a subject code other than CS or CSE.”***
+
+"A maximum of six hours may be taken at the 4000-level and/or with a subject code other than CS or CSE.”
 
 Click here to return to Table of Contents
 ---
@@ -239,63 +212,44 @@ Things to know about waitlisting:
 - Check your wait list number (see the instructions below) to confirm that you are actually on the wait list.
 - Waitlist notifications begin going out at a time predetermined by the Registrar’s Office during each registration period. Please be sure you are checking your GT email account on a daily basis so that you do not miss a wait list notification, if you receive one.
 ---
-# Students only have 12 hours to register for the course once the notification has been sent.
+Students only have 12 hours to register for the course once the notification has been sent.
 
 - This time frame is implemented by the Institute, and OMSCS Advising cannot extend the time frame or make accommodations if you miss the 12-hour window.
 
-# For the Fall and Spring semesters:
+For the Fall and Spring semesters: your total number of enrolled + waitlisted hours should never be more than seven hours (two courses and one seminar).
 
-Your total number of enrolled + waitlisted hours should never be more than seven hours (two courses and one seminar).
+If the wait list is full/closed when you are attempting to add yourself, please check back later. Students remove themselves from wait lists, and seats may be added to courses (which removes students from the wait list), so there is a strong chance that a spot will become available at a later time.
 
-# If the wait list is full/closed:
-
-When you are attempting to add yourself, please check back later. Students remove themselves from wait lists, and seats may be added to courses (which removes students from the wait list), so there is a strong chance that a spot will become available at a later time.
-
-# Reasons for wait list notification:
-
-- 1. We have added seats to a course.
-- 2. Someone else drops the course and releases the seat.
-
-We can control when we add seats, but we cannot control when someone else drops. If you receive a wait list notification at midnight, it is because someone dropped the course at that time, and we cannot control that.
-
-# Wait list notification:
+Once you have added yourself to a wait list, there are two different reasons why you might be issued a wait list notification: (1) we have added seats to a course or (2) someone else drops the course and releases the seat. We can control when we add seats, but we cannot control when someone else drops. If you receive a wait list notification at midnight, it is because someone dropped the course at that time, and we cannot control that.
 
 Once you receive the wait list notification, you must add by CRN. Add by look up does NOT work for waitlisted courses. Please follow the step-by-step instructions included in the wait list notification email, and be sure to check that you successfully registered for the course after following the instructions.
 
-# GT Email Forwarding:
-
 If you have your GT email forwarded to your personal email account, please be sure to check your GT account directly and often, as we have heard of many times when a wait list notification was not delivered or was routed to a spam folder.
 
-# Missed wait list window:
-
-If you miss your wait list window, you will be dropped from the wait list, and the next person on the list will receive permission to enroll. If you miss your wait list notification window, your only option is to add yourself back to the wait list (if possible) and hope for the best. OMSCS Advising cannot add students to wait lists or enroll students in classes.
-
-# Error message during wait listing:
+If you miss your wait list window, you will be dropped from the wait list, and the next person on the list will receive permission to enroll. Again, we have no control over this. If you miss your wait list notification window, your only option is to add yourself back to the wait list (if possible) and hope for the best. Your new position will be at the end of the list, so be sure to keep an eye on your email in case you receive another wait list notification. As a reminder, OMSCS Advising cannot add students to wait lists or enroll students in classes.
 
 If you are trying to wait list and receive an error message, please visit the Registrar’s website for an explanation of what the message means.
 
 - If you receive the error message “OPEN - # WAITLISTED”, this message means that you are trying to register for a course(s) that does not have any open seats. It may appear as though the course has seats available; however, the open seats are reserved for students on the wait list.
 
-# Checking your wait list number:
+Checking your wait list number: Please visit the Registrar’s website for step-by-step instructions on how to view your wait list position.
 
-Please visit the Registrar’s website for step-by-step instructions on how to view your wait list position.
-
-# Please note the following:
+Please note the following:
 
 - OMSCS Advising cannot register students for courses and/or add students to wait lists. Students must follow the procedures that have been outlined in this orientation document.
-- Please DO NOT email professors to seek permission to enroll in and/or wait list for their course(s), as professors have no control over this. Students must follow the procedures that have been outlined in this orientation document.
+- Please DO NOT email professors to seek permission to enroll in and/or wait list for their course(s), as professors have no control over this. Again, students must follow the procedures that have been outlined in this orientation document.
 
-# “Free for all” registration period:
+“Free for all” registration period: On the last day of Phase II registration, all of the wait lists are cleared, and students are able to enroll in any open course without needing to go through the wait list first. This is referred to as the “free for all” registration period. Information will be sent to students regarding this once we approach that timeframe.
 
-On the last day of Phase II registration, all of the wait lists are cleared, and students are able to enroll in any open course without needing to go through the wait list first. This is referred to as the “free for all” registration period. Information will be sent to students regarding this once we approach that timeframe.
-
-# SECTION H. DROPPING/WITHDRAWING FROM A COURSE(S)
+SECTION H. DROPPING/WITHDRAWING FROM A COURSE(S)
 
 When a student drops a course, this action can only be done during periods of registration. For Spring 2024 registration, the last day to drop a course is Friday, January 12 by 4:00pm ET. If a student drops a course, the course will not be reflected on the student’s transcript. It will appear as if the student never registered for the course, according to the transcript, so it will NOT count as a record of enrollment.
 
 If a student withdraws from a course (this is done after Spring 2024 registration has ended and before the semester’s withdrawal deadline), this action will result in a “W” on the student’s transcript. If a student withdraws from a course (or courses) and receives a “W” on the transcript, this counts as a record of enrollment for that specific term.
 
 For step-by-step instructions on how to drop/withdraw from a course(s), please visit the Registrar’s website. We strongly recommend that students check that they dropped/withdrew from the course. Please do NOT email our office asking for confirmation of your drop/withdrawal, as you will be directed to this document and/or the Registrar’s website.
+
+Click here to return to Table of Contents
 ---
 The Spring 2024 withdrawal deadline is Wednesday, March 13 at 4:00pm ET.
 
@@ -321,6 +275,8 @@ Please note the following:
 - Once Spring 2024 registration has ended, there will be a small window of time in which you will NOT be able to withdraw. If during this time frame you decide that you wish to withdraw, you can do so in OSCAR once the "withdraw" option is available (which is typically 1-3 days after the fee payment deadline).
 - If you do not pay your tuition/fees in full by the fee payment deadline, you will be subject to class cancellation and holds. If your schedule is canceled, you will be notified by email. Appeals can be submitted by visiting the Bursar’s website. If you are reinstated into classes, a reinstatement fee of $200.00 will apply, and the account balance must be paid immediately to avoid re-cancellation.
 - Please note: Reinstatement does not guarantee that faculty will allow students to make up any work missed. It is the student’s responsibility to confirm ahead of being reinstated what accommodations, if any, will be permitted during the time frame in which the student was not enrolled due to non-payment.
+
+Click here to return to Table of Contents
 ---
 # SECTION I. SYSTEMS YOU WILL BE USING AND WHY
 
@@ -355,6 +311,8 @@ Please note that this list does not reflect all of the academic-related dates. I
 Click here to return to Table of Contents
 ---
 # SECTION K. FREQUENTLY ASKED QUESTIONS (FAQs)
+
+New Student Onboarding/GT Email Account
 
 1. Where do I send my official transcript(s) and oper official documents?
 
@@ -442,21 +400,21 @@ Your mental health is important, and we want all OMSCS students to access local 
 
 Click here to return to Table of Contents
 ---
-# Office can assist with academic and other concerns. A source for excellent online mental health and well-being information can be found at https://gtwellnesshub.com/.
+Office can assist with academic and other concerns. A source for excellent online mental health and well-being information can be found at https://gtwellnesshub.com/.
 
-# Additionally, please note the following resources:
+Additionally, please note the following resources:
 
-● JED Foundation
-● Trevor Lifeline (supports LGBTQIA youp): 866-488-7386
-● Crisis Chat Line (a 24/7 text-based crisis service)
-● National Suicide Prevention Lifeline: 988
-● GT students can access self-help resources, including apps and podcasts, online. Please note pat students must have a valid @gatech.edu email address.
+- JED Foundation
+- Trevor Lifeline (supports LGBTQIA youth): 866-488-7386
+- Crisis Chat Line (a 24/7 text-based crisis service)
+- National Suicide Prevention Lifeline: 988
+- GT students can access self-help resources, including apps and podcasts, online. Please note that students must have a valid @gatech.edu email address.
 
-# I am interested in becoming a TA. Is this possible?
+6. I am interested in becoming a TA. Is this possible?
 
 Each semester, an email is sent to the omscs-official@cc.gatech.edu account notifying students of how to apply to become a TA for a future semester. Please be sure to monitor your email for this information.
 
-# What if I have an issue with/complaint about an assignment/exam or my instructor/TA?
+7. What if I have an issue with/complaint about an assignment/exam or my instructor/TA?
 
 Unfortunately, OMSCS Advising cannot get involved in the classroom management of OMSCS courses. If you need to request an extension due to health, family, or other unforeseen issues, please consult your class’ syllabus for directions and/or contact the Dean of Students office using the Request Assistance form, available on their website.
 
@@ -464,29 +422,32 @@ If you have a dispute with your grade, you should first contact your instructor.
 
 If you would like to share feedback about a class that is not specifically related to your grade, please contact the Associate Director for Student Experience, Alex Duncan (alex.duncan@gatech.edu).
 
-# What if I have an issue with/complaint against a fellow student in the program?
+8. What if I have an issue with/complaint against a fellow student in the program?
 
 Student behavior while enrolled in the OMSCS program is governed by the Georgia Tech Student Code of Conduct. This policy applies to all official interaction on program platforms and also to a certain extent where students interact with each other in program-oriented communities that are not officially administered by the Institute. If you believe a violation of the Student Code of Conduct has occurred, you may seek assistance from the Dean of Students office by clicking “Request Assistance” on their website.
 
-# What are the technical requirements for the OMSCS program?
+9. What are the technical requirements for the OMSCS program?
 
 Please visit this webpage to learn more about the minimum technical requirements for the OMSCS program. Please note that individual courses may have additional requirements, but the ones listed on the webpage are common across all OMSCS courses. Also, please note that courses with proctored exams may require you to use Google Chrome to take the exam.
 
-# Will my accounts be disabled if I travel to a different country while enrolled in OMSCS courses?
+10. Will my accounts be disabled if I travel to a different country while enrolled in OMSCS courses?
 
 We are not sure if there is a way to prevent this from happening, but we strongly recommend that you contact the Technology Services Organization (TSO) for assistance if you encounter this. You also may need to contact the Office of Information Technology (OIT).
 
-# How can I determine if there is a system outage, as well as stay informed of scheduled downtime for network maintenance?
+11. How can I determine if there is a system outage, as well as stay informed of scheduled downtime for network maintenance?
 
 Please visit https://support.cc.gatech.edu/alerts to stay up-to-date about system outages and scheduled maintenance that occurs within the College of Computing. This webpage also links to other helpful resources available on OIT’s website, including https://status.gatech.edu/.
 
-# Are OMSCS students eligible to earn credit for internships?
+12. Are OMSCS students eligible to earn credit for internships?
 
 The Graduate Internship Program is often used by graduate students as a means to maintain full-time student status while interning throughout the year. Since OMSCS students can only be enrolled as part-time students,
 
 Click here to return to Table of Contents
 ---
-# What career resources are available to me as an OMSCS student?</h13>
+there is no added benefit to enrolling in the Graduate Internship Program. OMSCS students are welcome to pursue internship experiences should their schedules allow for it.
+
+# What career resources are available to me as an OMSCS student?
+
 OMSCS students can receive career support from multiple sources. First, OMSCS students have access to career services specifically for assistance with job searching, interviewing, networking, career planning, and professional development. Please visit https://omscs.gatech.edu/career to learn more. If you sign up for the omscs-announce mailing list, you will receive regular communications from the Office of Outreach, Enrollment, and Community (OEC) for the College of Computing, including opportunities to participate in professional development workshops and webinars.
 
 Also, please be sure to check out our job platform, Handshake (you will be required to log in using your GT credentials). Here, OMSCS students can see current industry job and internship opportunities, register and attend College of Computing events, network with students across the nation, and request appointments with a Career Advisor. Newly-matriculated students may not be able to access Handshake until a couple of weeks after the semester begins.
@@ -495,10 +456,12 @@ Career coaching can be provided by reaching out to the Educational Outreach Mana
 
 Finally, OMSCS students have access to services for graduate students offered by the Career Center at Georgia Tech. The Career Center offers workshops on many of the topics listed above, a job board that lists internships and full-time jobs, and career fairs. The platform that is used within the Career Center is CareerBuzz, where you can explore all of the services and events that are offered by the Career Center. All OMSCS students are granted access to the platform once they formally enroll in classes.
 
-# Can OMSCS students participate in the on-campus and virtual Georgia Tech career fairs?</h14>
+# Can OMSCS students participate in the on-campus and virtual Georgia Tech career fairs?
+
 OMSCS students are eligible to participate in the on-campus and virtual College of Computing career fairs and the Georgia Tech Career Center. Please note that BuzzCards are required for the on-campus career fairs.
 
-# How do I find out more information about the Vertically Integrated Projects (VIP) program?</h15>
+# How do I find out more information about the Vertically Integrated Projects (VIP) program?
+
 OMSCS students who are interested in participating in the Vertically Integrated Projects (VIP) program should contact that department directly. Their contact information can be found on their website. If you receive approval from their program to participate, please keep the following in mind:
 
 - The courses can only be counted toward your MSCS degree as “free” elective credit. You may not count these courses to fulfill any specialization requirements.
@@ -506,10 +469,12 @@ OMSCS students who are interested in participating in the Vertically Integrated 
 - The credit you earn for the VIP program does not count as a foundational course for the OMSCS program. Therefore, you are still required to fulfill your foundational requirement by your designated deadline, if you have not done so already.
 - If you have any additional questions regarding the VIP program, please contact their office directly, as the OMSCS advisors are unable to provide specific information regarding that program or its requirements.
 
-# Is the OMSCS program accredited?</h16>
+# Is the OMSCS program accredited?
+
 Georgia Tech’s undergraduate programs are ABET (Accreditation Board for Engineering and Technology) accredited. Georgia Tech’s graduate programs are regionally accredited by the Southern Association of Colleges and Schools Commission on Colleges (SACS).
 
-# How can I obtain an enrollment verification?</h17>
+# How can I obtain an enrollment verification?
+
 Please visit this webpage for more information on how to request an enrollment verification, and please contact the Registrar’s Office directly with any questions.
 ---
 # How do I get support for the various systems I will use as an OMSCS student?
@@ -556,8 +521,7 @@ Please note the following when determining whether a deferral request needs to b
 
 - If a student registers and remains enrolled after Phase II registration has ended, they are considered a matriculated (current) OMSCS student and do not need to request to defer their admission, even if they withdraw from a course in their first semester.
 - If a student registers but drops their schedule before Phase II registration has ended, they are not considered a matriculated (current) OMSCS student and must submit a request to defer their admission within the designated time frame, as long as they meet the eligibility requirements. Please review the previous FAQs for more details.
-
-Note: If your schedule is cancelled for nonpayment, you will NOT have a record of enrollment for the semester. Therefore, if this is your first semester in the OMSCS program, you will need to defer your admission, if you are eligible to do so.
+- Note: If your schedule is cancelled for nonpayment, you will NOT have a record of enrollment for the semester. Therefore, if this is your first semester in the OMSCS program, you will need to defer your admission, if you are eligible to do so.
 
 # 4. If I am planning to defer my admission, what do I need to do?
 
@@ -620,7 +584,7 @@ To declare your specialization, please follow these instructions:
 - Go to https://oscar.gatech.edu/.
 - Sign in using your GT credentials via the “Secure Access Login” link.
 ---
-# Click on the “Students” tab.
+Click on the “Students” tab.
 
 Scroll down and select “Change Your Concentration”. Listed on this screen will be your current program of study, effective for a future term. Beside each program of study is a button that allows you to select the program for which you would like to add, update, or remove a specialization/concentration.
 
@@ -636,36 +600,28 @@ Click “Done”, and you will return to the main screen displaying your current
 
 Once you arrive back at the main screen, review the changes you have made and ensure you have added/removed/modified the appropriate concentration (specialization) for all current and future terms.
 
-# Please note that if you are receiving GI Bill benefits
+Please note that if you are receiving GI Bill benefits, the Department of Veteran Affairs (DVA) regulates that only degree-applicable courses for your major are allowed to be certified for tuition and fee funding. This particular student population is permitted no more than two semesters to declare a specialization. By declaring your specialization, this will allow Georgia Tech’s Veteran’s Services office to certify your courses each semester. Please contact the Veteran's Services office directly with any questions you may have regarding this requirement. Their contact information can be found on their website.
 
-The Department of Veteran Affairs (DVA) regulates that only degree-applicable courses for your major are allowed to be certified for tuition and fee funding. This particular student population is permitted no more than two semesters to declare a specialization. By declaring your specialization, this will allow Georgia Tech’s Veteran’s Services office to certify your courses each semester. Please contact the Veteran's Services office directly with any questions you may have regarding this requirement. Their contact information can be found on their website.
-
-# Can I declare more than one specialization?
-
+Can I declare more than one specialization?
 No – students may declare only one specialization. However, you may take courses beyond your specialization as “free” electives.
 
-# Can I use extra specialization core courses as specialization electives (and vice versa)?
-
+Can I use extra specialization core courses as specialization electives (and vice versa)?
 For the most part, if students take extra specialization core courses and/or extra specialization elective courses beyond what is required in their specialization, the extra course(s) can be used only towards the "free" electives. In other words, specialization core courses cannot be used towards the specialization elective requirements and vice versa (specialization elective courses cannot be used towards the specialization core requirements).
 
 The only exception is for students pursuing the Computing Systems specialization. Please visit the specialization’s webpage for more information regarding what can be accepted.
 
-# Am I allowed to make substitutions within the OMSCS degree requirements?
-
+Am I allowed to make substitutions within the OMSCS degree requirements?
 The official College policy is that substitutions for specialization coursework are made only when necessary when specialization courses are not available. Since all five of the specializations offered through the OMSCS program can be completed without substitutions, no substitutions will be approved.
 
-# Am I allowed to audit a course or take it on the pass/fail grading basis?
-
+Am I allowed to audit a course or take it on the pass/fail grading basis?
 Students are permitted to earn only a letter grade in all OMSCS courses. Students may not audit an OMSCS course or take it on the pass/fail grading basis.
 
 The only exception is the CS 8001 one-hour seminars. As a reminder, these seminars are graded on the pass/fail grading basis and will NOT count toward your graduation requirements.
 
-# How long do I have to complete the program and earn my degree?
-
+How long do I have to complete the program and earn my degree?
 Students must complete the OMSCS degree in six years as per the Institute’s policy.
 
-# What happens if I need more than six years to complete the program?
-
+What happens if I need more than six years to complete the program?
 Any coursework that is older than six years needs to be approved by the Graduate Curriculum Committee (GCC) and the Institute Graduate Curriculum Committee (IGCC) in order to be applied to your degree. If you will be exceeding the six-year time frame, please be sure to contact oms-advising@cc.gatech.edu the semester before
 
 Click here to return to Table of Contents
@@ -698,13 +654,11 @@ What happens if I do not meet my foundational requirement by my designated deadl
 
 As of now, students have not been dismissed from the OMSCS program simply for not fulfilling the foundational requirement. Students will need to continue enrolling in foundational courses until they have satisfied this requirement. Our office sends an email each semester for students whose foundational requirement deadline has passed, so please refer to these messages for any updated information regarding this policy.
 
-# FAQs
-
-Can I count non-CS/CSE courses and/or previously-completed undergraduate-level courses toward my MSCS degree?
+# 9. Can I count non-CS/CSE courses and/or previously-completed undergraduate-level courses toward my MSCS degree?
 
 As per the program rules, a maximum of six hours may be taken at the 4000-level and/or with a subject code other than CS or CSE. If you have any questions, especially regarding previously-completed undergraduate-level courses, please contact your advisor by sending a message from your GT email account to oms-advising@cc.gatech.edu. Please be sure to include your nine-digit gtID number (90XXXXXXX), replacing the first two digits with “xx”.
 
-What are the rules regarding the Satisfactory Academic Progress policy?
+# 10. What are the rules regarding the Satisfactory Academic Progress policy?
 
 Please visit https://catalog.gatech.edu/rules/6/ for information regarding the Satisfactory Academic Progress policy.
 ---
@@ -765,35 +719,23 @@ qualifications, especially since the advisors are unable to add students to cour
 
 Click here to return to Table of Contents
 ---
-# 8. Can my advisor help me plan out all of my courses in advance?
-
-Unfortunately, advisors cannot register students for courses, nor can we add students to wait lists. Therefore, we cannot guarantee that students will be able to take specific courses during specific semesters, so planning out the exact ten courses you wish to take (and the semester you wish to take them) most likely is not possible, as students should plan to be flexible in taking courses whenever they are available.
+8. Can my advisor help me plan out all of my courses in advance? Unfortunately, advisors cannot register students for courses, nor can we add students to wait lists. Therefore, we cannot guarantee that students will be able to take specific courses during specific semesters, so planning out the exact ten courses you wish to take (and the semester you wish to take them) most likely is not possible, as students should plan to be flexible in taking courses whenever they are available.
 
 As a reminder, there are no official/enforced prerequisites for the OMSCS courses (beyond those required for admission into the program), so students can take these classes in essentially any order. There are certain recommendations as to what material/information you should be familiar with prior to taking a course, but there are no official prerequisites for the OMSCS courses. For course-specific prerequisite information, please read the course descriptions online. Please refer to the FAQ below (#10) for more information on how to plan for future courses using DegreeWorks.
 
-# 9. Do I need to take courses in the order they are listed on the specialization webpages?
+9. Do I need to take courses in the order they are listed on the specialization webpages? No, as mentioned previously, students can take OMSCS courses in essentially any order. Students are not required to take their specialization courses (or any courses) in a specific order.
 
-No, as mentioned previously, students can take OMSCS courses in essentially any order. Students are not required to take their specialization courses (or any courses) in a specific order.
+10. How can I check my degree progress and/or plan for future courses? To check your degree progress and/or plan for future courses, we encourage you to use DegreeWorks. If you have declared your specialization, DegreeWorks should tell you what requirements, if any, you are missing. It also should allow you to plan for future courses using the “what if” feature. If you have not yet declared your specialization, all of your courses should be listed in the "Fallthrough Section", as they will not be allocated until you declare your specialization. Please note that specializations cannot be declared during active periods of registration. As a reminder, please be sure to review the degree requirements and the specialization requirements. Alternatively, you can print a degree worksheet for your specialization and fill it in so that you can see what requirements, if any, are remaining. You may access the degree worksheets online.
 
-# 10. How can I check my degree progress and/or plan for future courses?
+11. There have been some curriculum changes (new course numbers, recently-approved specialization courses, etc.), and my DegreeWorks is not listing these courses in the correct areas of my degree audit. When will this be adjusted? If changes are made to the curriculum or a new course number is assigned after you have matriculated, DegreeWorks will not make the necessary adjustments automatically – the OMSCS advisors have to make exceptions in DegreeWorks manually. This typically is not done until students have petitioned to graduate, though you are welcome to contact our office at oms-advising@cc.gatech.edu, and we would be happy to make the change ahead of time, as long as you already successfully completed the course(s). Please note that we will not be able to make changes to courses that are still in progress, as we need to ensure that the minimum grade is earned before making the change in DegreeWorks.
 
-To check your degree progress and/or plan for future courses, we encourage you to use DegreeWorks. If you have declared your specialization, DegreeWorks should tell you what requirements, if any, you are missing. It also should allow you to plan for future courses using the “what if” feature. If you have not yet declared your specialization, all of your courses should be listed in the "Fallthrough Section", as they will not be allocated until you declare your specialization. Please note that specializations cannot be declared during active periods of registration. As a reminder, please be sure to review the degree requirements and the specialization requirements. Alternatively, you can print a degree worksheet for your specialization and fill it in so that you can see what requirements, if any, are remaining. You may access the degree worksheets online.
+12. Why are my non-CS/CSE courses not being applied to my degree requirements in DegreeWorks? Since these courses are outside of the CS/CSE curriculum, your OMSCS advisor will need to manually apply any non-CS/CSE coursework to your record in DegreeWorks. This typically is not done until students have petitioned to graduate, though you are welcome to contact our office at oms-advising@cc.gatech.edu, and we would be happy to make the change ahead of time, as long as you already successfully completed the course(s). Please note that we will not be able to make changes to courses that are still in progress, as we need to ensure that the minimum grade is earned before making the change in DegreeWorks.
 
-# 11. There have been some curriculum changes (new course numbers, recently-approved specialization courses, etc.), and my DegreeWorks is not listing these courses in the correct areas of my degree audit. When will this be adjusted?
+13. When will the course schedules for each term be available? The course schedules for each term are released shortly before the Phase I registration period for each term. Please refer to the academic calendar for term-specific dates.
 
-If changes are made to the curriculum or a new course number is assigned after you have matriculated, DegreeWorks will not make the necessary adjustments automatically – the OMSCS advisors have to make exceptions in DegreeWorks manually. This typically is not done until students have petitioned to graduate, though you are welcome to contact our office at oms-advising@cc.gatech.edu, and we would be happy to make the change ahead of time, as long as you already successfully completed the course(s). Please note that we will not be able to make changes to courses that are still in progress, as we need to ensure that the minimum grade is earned before making the change in DegreeWorks.
+14. I completed my bachelor’s degree in Computer Science at Georgia Tech. Can I double-count any of my courses toward my OMSCS degree? Students completing both a bachelor’s and master’s in the same discipline (Computer Science) at Georgia Tech might be able to use up to six credit hours of graduate-level coursework in the major discipline for both degrees.
 
-# 12. Why are my non-CS/CSE courses not being applied to my degree requirements in DegreeWorks?
-
-Since these courses are outside of the CS/CSE curriculum, your OMSCS advisor will need to manually apply any non-CS/CSE coursework to your record in DegreeWorks. This typically is not done until students have petitioned to graduate, though you are welcome to contact our office at oms-advising@cc.gatech.edu, and we would be happy to make the change ahead of time, as long as you already successfully completed the course(s). Please note that we will not be able to make changes to courses that are still in progress, as we need to ensure that the minimum grade is earned before making the change in DegreeWorks.
-
-# 13. When will the course schedules for each term be available?
-
-The course schedules for each term are released shortly before the Phase I registration period for each term. Please refer to the academic calendar for term-specific dates.
-
-# 14. I completed my bachelor’s degree in Computer Science at Georgia Tech. Can I double-count any of my courses toward my OMSCS degree?
-
-Students completing both a bachelor’s and master’s in the same discipline (Computer Science) at Georgia Tech might be able to use up to six credit hours of graduate-level coursework in the major discipline for both degrees.
+Click here to return to Table of Contents
 ---
 To qualify for this option, students must complete the undergraduate degree with a cumulative GPA of 3.5 or higher and complete the master’s degree within a two-year period from the award date of the bachelor’s degree. Please visit this website for more information. If you feel you qualify for this option, please send a message from your GT email account to oms-advising@cc.gatech.edu and include your full name and nine-digit gtID number. Your advisor will be able to assist you and confirm your eligibility.
 
@@ -805,7 +747,8 @@ If you previously completed courses at Georgia Tech, specifically undergraduate 
 
 | OMSCS Course | Georgia Tech Equivalent Course |
 | --- | --- |
-| CS 6035 | *If you took CS 4235 prior to Spring 2011, you will be allowed to earn credit for both courses. If you took CS 4235 after Spring 2011, you will not be able to enroll in CS 6035. |
+| CS 6035 | CS 4235* |
+| | *If you took CS 4235 prior to Spring 2011, you will be allowed to earn credit for both courses. If you took CS 4235 after Spring 2011, you will not be able to enroll in CS 6035. |
 | CS 6150 | N/A |
 | CS 6200 (formerly CS 8803-O02) | N/A |
 | CS 6210 | CS 6420 and CS 4210 |
@@ -851,106 +794,51 @@ Click here to return to Table of Contents
 |CS 7642|N/A (formerly CS 8803-O03)|
 
 Click here to return to Table of Contents
+
+21
 ---
-# CS 7643
-
-CS 4644, CS 4803 Deep Learning, and CS 8803 Deep Learning
-
-# CS 7646
-
-CS 4646 and CS 4803 Machine Learning for Trading
-
-# CS 7650
-
-CS 4650
-
-# CS 8803-O08
-
-N/A (Compilers – Theory & Practice)
-
-# CS 8803-O13
-
-CS 4803 IQC (Quantum Computing)
-
-# CS 8803-O15
-
-CS 4010 (Introduction to Computer Law)
-
-# CS 8803-O16
-
-CS 4803 DHE (Digital Health Equity)
-
-# CS 8803-O17
-
-CS 4803 GEI (Global Entrepreneurship)
-
-# CSE 8803-O22
-
-PUBP 8803 Security Incident Response (Security Incident Response)
-
-# CSE 6220
-
-CX 4220
-
-# CSE 6242
-
-CX 4242
-
-# CSE 6250
-
-CX 4803 BDS and CSE 8803 BDS (formerly CSE 8803-O01)
-
-# CSE 6742
-
-CS 4343, INTA 4742, INTA 4803 Modeling, Sim, & Mil Gaming, and INTA 6742
-
-# ECE 8843
-
-Side-Channels & Their Role in Cybersecurity N/A
-
-# INTA 6450
-
-N/A
-
-# ISYE 6402
-
-N/A
-
-# ISYE 6420
-
-N/A
-
-# ISYE 6501
-
-N/A
-
-# ISYE 6644
-
-N/A
-
-# ISYE 6669
-
-N/A
-
-# ISYE 8803
-
-Topics on High-Dimensional Data Analytics N/A
-
-# MGT 6311
-
-N/A
-
-# PUBP 6725
-
-CS 4725, CS 6725, MGT 4725, MGT 6725, and PUBP 4725
+|CS 7643|CS 4644, CS 4803 Deep Learning, and CS 8803 Deep Learning|
+|---|---|
+|CS 7646|CS 4646 and CS 4803 Machine Learning for Trading|
+|CS 7650|CS 4650|
+|CS 8803-O08|N/A (Compilers – Theory & Practice)|
+|CS 8803-O13|CS 4803 IQC (Quantum Computing)|
+|CS 8803-O15|CS 4010 (Introduction to Computer Law)|
+|CS 8803-O16|CS 4803 DHE (Digital Health Equity)|
+|CS 8803-O17|CS 4803 GEI (Global Entrepreneurship)|
+|CSE 8803-O22|PUBP 8803 Security Incident Response (Security Incident Response)|
+|CSE 6220|CX 4220|
+|CSE 6242|CX 4242|
+|CSE 6250|CX 4803 BDS and CSE 8803 BDS (formerly CSE 8803-O01)|
+|CSE 6742|CS 4343, INTA 4742, INTA 4803 Modeling, Sim, & Mil Gaming, and INTA 6742|
+|ECE 8843|(Side-Channels & Their Role in Cybersecurity) N/A|
+|INTA 6450|N/A|
+|ISYE 6402|N/A|
+|ISYE 6420|N/A|
+|ISYE 6501|N/A|
+|ISYE 6644|N/A|
+|ISYE 6669|N/A|
+|ISYE 8803|(Topics on High-Dimensional Data Analytics) N/A|
+|MGT 6311|N/A|
+|PUBP 6725|CS 4725, CS 6725, MGT 4725, MGT 6725, and PUBP 4725|
 
 17. What is the difference between when two courses are cross-listed and when they are considered to be equivalent? Equivalent courses are courses that are listed as equivalent in Banner. They may not necessarily be taught together (such as the Atlanta campus courses CS 4460 and CS 6730). Cross-listed courses are courses that are
 
 Click here to return to Table of Contents
 ---
+taught together and are usually equivalents as well (such as CS 4641 and CS 7641).
+
+# 18. Are there any courses that students cannot count toward their MSCS degree?
+
+MSCS students are not permitted to count credit for 1) CSE 6010 Computational Problem Solving for Scientists and Engineers; 2) CSE 6040 Computing for Data Analysis: Methods and Tools; 3) CS 4001 Computing, Society and Professionalism; or 4) CS 4002 Robots and Society toward their MSCS degree.
+
+Additionally, the CS 8001 one-hour seminars will NOT count toward your graduation requirements.
+
+If you have concerns about other courses, please be sure to contact your OMSCS advisor from your GT email account at oms-advising@cc.gatech.edu. Please include your full name and your nine-digit gtID number (90XXXXXXX), replacing the first two digits with “xx”.
+
 # Grades/GPA Requirement
 
-1. Is it possible to repeat a course, and what are the consequences of doing so?
+# 1. Is it possible to repeat a course, and what are the consequences of doing so?
 
 According to the academic catalog, “Students may not repeat courses on a letter-grade basis in which the grade of ‘B’ or higher has been earned previously.”
 
@@ -960,80 +848,107 @@ Please also note that if you retake a course, it can be used to satisfy only one
 
 If you withdraw from a course, “W”s are visible on your transcript, but they have no impact on your GPA. If you retake a course from which you previously have withdrawn, the “W” from your first attempt and the new grade from that class both will appear on your transcript.
 
-2. What are the grade/GPA requirements to remain active in the program?
+# 2. What are the grade/GPA requirements to remain active in the program?
 
 Please visit http://www.catalog.gatech.edu/rules/6/ and https://registrar.gatech.edu/info/academic-standing and review this information carefully. Please note that your academic standing is based on your cumulative GPA and/or your term GPA. For MS students, the minimum GPA to remain in good academic standing is 2.7. However, please note that you must earn a cumulative GPA of 3.0 or higher in order to meet the graduation requirements. For information on how to calculate your GPA, please refer to the Registrar’s website.
 
-3. Does the grade substitution policy apply to graduate students?
+# 3. Does the grade substitution policy apply to graduate students?
 
 A grade substitution policy has been approved for graduate students. Please visit https://catalog.gatech.edu/rules/5/ and https://registrar.gatech.edu/info/applying-for-graduate-grade-substitution for information regarding eligibility.
 
-4. How do OMSCS students apply for a graduate grade substitution?
+# 4. How do OMSCS students apply for a graduate grade substitution?
 
 The grade substitution form is available on the Registrar’s Office’s website and must be completed via DocuSign by the established deadline. Please be sure to use your advisor’s direct email address (NOT oms-advising@cc.gatech.edu) when submitting this form.
 
-5. When does the graduate grade substitution policy take effect?
+# 5. When does the graduate grade substitution policy take effect?
 
 The new policy takes effect starting with the Summer 2022 semester under the 2022-2023 academic catalog.
 
-6. Is the graduate grade substitution policy retroactive?
+# 6. Is the graduate grade substitution policy retroactive?
 
 No, the policy is not retroactive. The “C”, “D”, or “F” grade to be substituted must have been earned in a course taken during or after the Summer 2022 semester. The new policy does NOT apply to courses taken prior to Summer 2022.
----
-# 7. Is academic standing impacted/recalculated retroactively once the graduate grade substitution has been applied to a student’s record?</h7>
-Yes, a student’s academic standing would update once the grade substitution had been applied. For example, if a student’s first attempt was during the Summer 2022 semester, and an unsatisfactory grade was earned, and then the course was repeated successfully in Fall 2022, then the academic standing for Summer 2022 would be updated (since the original grade would be excluded from the cumulative GPA) and would be built upon once the grade substitution had been applied.
-
-# 8. Will the grade substitution be visible on a transcript?</h7>
-Yes, the student’s transcript would show the original grade with a comment of “Excluded grade substitution”.
-
-# 9. Is there a minimum grade that a student must earn to be approved for a grade substitution?</h7>
-Students do not have to earn a minimum grade to request a grade substitution. For example, a student could earn a “D”, repeat the course and earn a “C”, and apply for a grade substitution.
-
-# 10. If students with undergraduate degrees from Georgia Tech have previously been approved for undergraduate grade substitutions, would they be permitted to apply for one at the graduate level?</h7>
-Yes, the grade substitution policy “resets” at the graduate level.
-
-# 11. Does the graduate grade substitution policy impact BSMS students in any specific way?</h7>
-No, both the undergraduate and graduate grade substitution policies can be applied to BSMS students. When they are BS students, they will follow the undergraduate grade substitution policy. When they matriculate into the graduate level, they will then follow the graduate grade substitution policy.
-
-# 12. If undergraduate Georgia Tech students enroll in graduate-level GT courses, which grade substitution policy would be in effect (undergraduate or graduate)?</h7>
-The grade substitution policies are based on a student’s level (undergraduate or graduate), not the course level. For example, if undergraduate students complete graduate-level courses, they will follow the undergraduate grade substitution policy.
-
-# 13. Are exceptions to the graduate grade substitution policy possible?</h7>
-The grade substitution policy (including, but not limited to, course eligibility, number of courses, time limits, and deadlines) is not subject to exceptions.
-
-# 14. Can the graduate grade substitution policy be petitioned to the Graduate Institute Curriculum Committee?</h7>
-The graduate grade substitution policy may NOT be petitioned to the Graduate Institute Curriculum Committee.
-
-# 15. Are OMSCS students required to opt into the graduate grade substitution policy in order to graduate?</h7>
-No, OMSCS students are NOT required to opt into the graduate grade substitution policy if they do not wish to do so. OMSCS students are eligible for graduation if they are meeting all MSCS degree requirements, even without opting into the graduate grade substitution policy.
-
-# 16. If I earn a “D” in a course, can it count toward my OMSCS degree?</h7>
-Courses in which a student earns less than a “C” cannot be counted toward the OMSCS degree. Please note that these grades still will be factored into your overall cumulative GPA and cannot be removed from your record, unless you opt into the graduate grade substitution policy.
-
-# 17. If I do not earn the required grade in a course, or if I withdraw from a course, am I required to repeat the course in a later semester?</h7>
-If the course is required for your specialization, and there are no other course options within that specific area of your specialization that you can take instead (since substitutions are not permitted), then you must retake the course and earn the required "B" or better for specialization/foundational courses. However, if there are other course options available within that specific area for your specialization, then you may choose to enroll in a
 
 Click here to return to Table of Contents
 ---
+# 7. Is academic standing impacted/recalculated retroactively once the graduate grade substitution has been applied to a student’s record?
+
+Yes, a student’s academic standing would update once the grade substitution had been applied. For example, if a student’s first attempt was during the Summer 2022 semester, and an unsatisfactory grade was earned, and then the course was repeated successfully in Fall 2022, then the academic standing for Summer 2022 would be updated (since the original grade would be excluded from the cumulative GPA) and would be built upon once the grade substitution had been applied.
+
+# 8. Will the grade substitution be visible on a transcript?
+
+Yes, the student’s transcript would show the original grade with a comment of “Excluded grade substitution”.
+
+# 9. Is there a minimum grade that a student must earn to be approved for a grade substitution?
+
+Students do not have to earn a minimum grade to request a grade substitution. For example, a student could earn a “D”, repeat the course and earn a “C”, and apply for a grade substitution.
+
+# 10. If students with undergraduate degrees from Georgia Tech have previously been approved for undergraduate grade substitutions, would they be permitted to apply for one at the graduate level?
+
+Yes, the grade substitution policy “resets” at the graduate level.
+
+# 11. Does the graduate grade substitution policy impact BSMS students in any specific way?
+
+No, both the undergraduate and graduate grade substitution policies can be applied to BSMS students. When they are BS students, they will follow the undergraduate grade substitution policy. When they matriculate into the graduate level, they will then follow the graduate grade substitution policy.
+
+# 12. If undergraduate Georgia Tech students enroll in graduate-level GT courses, which grade substitution policy would be in effect (undergraduate or graduate)?
+
+The grade substitution policies are based on a student’s level (undergraduate or graduate), not the course level. For example, if undergraduate students complete graduate-level courses, they will follow the undergraduate grade substitution policy.
+
+# 13. Are exceptions to the graduate grade substitution policy possible?
+
+The grade substitution policy (including, but not limited to, course eligibility, number of courses, time limits, and deadlines) is not subject to exceptions.
+
+# 14. Can the graduate grade substitution policy be petitioned to the Graduate Institute Curriculum Committee?
+
+The graduate grade substitution policy may NOT be petitioned to the Graduate Institute Curriculum Committee.
+
+# 15. Are OMSCS students required to opt into the graduate grade substitution policy in order to graduate?
+
+No, OMSCS students are NOT required to opt into the graduate grade substitution policy if they do not wish to do so. OMSCS students are eligible for graduation if they are meeting all MSCS degree requirements, even without opting into the graduate grade substitution policy.
+
+# 16. If I earn a “D” in a course, can it count toward my OMSCS degree?
+
+Courses in which a student earns less than a “C” cannot be counted toward the OMSCS degree. Please note that these grades still will be factored into your overall cumulative GPA and cannot be removed from your record, unless you opt into the graduate grade substitution policy.
+
+# 17. If I do not earn the required grade in a course, or if I withdraw from a course, am I required to repeat the course in a later semester?
+
+If the course is required for your specialization, and there are no other course options within that specific area of your specialization that you can take instead (since substitutions are not permitted), then you must retake the course and earn the required "B" or better for specialization/foundational courses. However, if there are other course options available within that specific area for your specialization, then you may choose to enroll in a
+---
 different course to satisfy the requirement.
 
-If the course would count as a “free” elective, you have the option of retaking it to earn the required “C” or better for “free” electives, or you may choose to enroll in a different course to satisfy your “free” elective requirement.
+If the course would count as a “free” elective, you have the option of retaking it to earn the required “C” or better
+for “free” electives, or you may choose to enroll in a different course to satisfy your “free” elective requirement.
 
 # 18. Is there a limit to how many times I can withdraw from and/or repeat a course?
 
-There is no specific limit to how many times a student may take and later withdraw from and/or repeat a specific course. However, please keep in mind the degree requirements outlined in this document and the academic catalog, including the satisfactory academic progress requirements, the six-year requirement, and the graduate grade substitution policy.
+There is no specific limit to how many times a student may take and later withdraw from and/or repeat a specific
+course. However, please keep in mind the degree requirements outlined in this document and the academic
+catalog, including the satisfactory academic progress requirements, the six-year requirement, and the graduate
+grade substitution policy.
 
 # 19. How is my academic standing impacted if I withdraw from or do not enroll in a semester?
 
-It is our understanding that if you withdraw from or do not enroll in a semester, and you do not have any new grades that would change your status, then your academic standing from the previous semester would carry over. Therefore, if you were on academic warning or academic probation after your last enrolled term, then this status would carry over to the next term as long as you did not have any new grades to change your academic standing.
+It is our understanding that if you withdraw from or do not enroll in a semester, and you do not have any new
+grades that would change your status, then your academic standing from the previous semester would carry over.
+Therefore, if you were on academic warning or academic probation after your last enrolled term, then this status
+would carry over to the next term as long as you did not have any new grades to change your academic standing.
 
-There is an exception to this, as it relates to making satisfactory academic progress in the program. As noted above, if you are withdrawing semester after semester without successfully completing a course, your academic standing in the program could be impacted.
+There is an exception to this, as it relates to making satisfactory academic progress in the program. As noted
+above, if you are withdrawing semester after semester without successfully completing a course, your academic
+standing in the program could be impacted.
 
 # 20. If I am on academic warning or academic probation, am I allowed to withdraw from a course/semester?
 
-As long as you do not have a hold on your account, you should be able to withdraw from a course/semester, even if you are on academic warning or academic probation. As stated previously, if you were to withdraw from the semester, and you did not have any new grades that would change your status, then your academic standing from the previous semester would carry over. Therefore, if you were on academic warning or academic probation after your last enrolled term, and you did not have any new grades that would change your status, then your academic standing would carry over to the next term.
+As long as you do not have a hold on your account, you should be able to withdraw from a course/semester, even
+if you are on academic warning or academic probation. As stated previously, if you were to withdraw from the
+semester, and you did not have any new grades that would change your status, then your academic standing from
+the previous semester would carry over. Therefore, if you were on academic warning or academic probation after
+your last enrolled term, and you did not have any new grades that would change your status, then your academic
+standing would carry over to the next term.
 
-There is an exception to this, as it relates to making satisfactory academic progress in the program. As noted above, if you are withdrawing semester after semester without successfully completing a course, your academic standing in the program could be impacted.
+There is an exception to this, as it relates to making satisfactory academic progress in the program. As noted
+above, if you are withdrawing semester after semester without successfully completing a course, your academic
+standing in the program could be impacted.
 
 # 21. By when do I need to resolve an “I” grade?
 
@@ -1043,51 +958,60 @@ Detailed information regarding an “I” grade can be found in the following se
 - Section A
 - Section B, Point 1
 
-To confirm: "When a grade of ‘I’ (‘Incomplete') is assigned in a course, the ‘I' grade must be removed and the grade change reported by the end of the student's next academic term in residence or, if the student has not been enrolled, by the end of the academic term one calendar year from the date the incomplete was assigned. Failing to remove the ‘I' in the allotted time will result in the grade of ‘I' being changed to the grade of ‘F'. To remove the ‘I' grade, the student should consult with the instructor as soon as possible after the academic term is over and complete whatever remaining coursework is outlined by the instructor. Repeating the course for credit does not remove the grade of ‘I’."
+To confirm: "When a grade of ‘I’ (‘Incomplete') is assigned in a course, the ‘I' grade must be removed and the
+grade change reported by the end of the student's next academic term in residence or, if the student has not been
+enrolled, by the end of the academic term one calendar year from the date the incomplete was assigned. Failing
+to remove the ‘I' in the allotted time will result in the grade of ‘I' being changed to the grade of ‘F'. To remove the
+‘I' grade, the student should consult with the instructor as soon as possible after the academic term is over and
+complete whatever remaining coursework is outlined by the instructor. Repeating the course for credit does not
+remove the grade of ‘I’."
 
 # 22. Is it possible to “start over” or “erase” my previous academic history?
 
-Unfortunately, this is not possible. Your previous academic history always will be a part of your student record, even if you take time off and seek readmission into the program at a later time.
+Unfortunately, this is not possible. Your previous academic history always will be a part of your student
+record, even if you take time off and seek readmission into the program at a later time.
 
 Click here to return to Table of Contents
 ---
-# 23. If I take extra OMSCS courses, can I designate which courses will count toward my “degree” GPA rather than my cumulative GPA?
+23. If I take extra OMSCS courses, can I designate which courses will count toward my “degree” GPA rather than my cumulative GPA?
 
 The OMSCS program does not have a separate “degree GPA” and simply uses your cumulative GPA. The only exception to this is for students who continue taking courses after they have graduated from the OMSCS program. For the purposes of your resume, whatever your GPA was when your degree was awarded would be your MS GPA.
 
 # Registration-Related Information
 
-# 1. What is the difference between Phase I and Phase II registration?
+1. What is the difference between Phase I and Phase II registration?
 
 Current/returning students will register during Phase I and will have another opportunity to make changes to their schedules during Phase II. Newly-admitted students will register during Phase II only. For the summer term, there is only one registration phase, with an “unofficial” Phase II period taking place shortly before the start of the semester. Visit the academic calendar for term-specific dates.
 
-# 2. Are the published times/deadlines updated based on my local time zone if I do not live in Atlanta?
+2. Are the published times/deadlines updated based on my local time zone if I do not live in Atlanta?
 
 No — all of the Institute times/deadlines you see are listed in the Eastern time zone. They will not update automatically to reflect your local time zone. Therefore, you will need to be mindful of time-sensitive activities/deadlines such as when time tickets open, the expiration of a wait list notification, the end of a registration period, the semester’s withdrawal deadline, etc. For any class-specific deadline, please be sure to work with your instructor and/or TA(s).
 
-# 3. What is the maximum number of courses I can register for each term?
+3. What is the maximum number of courses I can register for each term?
 
 The OMSCS program is a part-time program only – no exceptions will be made to allow for full-time enrollment. Students can register for a maximum of seven hours during the fall and spring semesters, and students are limited to enrolling in five hours during the summer semester. Please note that Financial Aid and other programs may have specific credit hour requirements, so be sure to follow up with their office(s) directly for more information.
 
-# 4. What if a course I want to register for is CLOSED?
+4. What if a course I want to register for is CLOSED?
 
 Once the registration cap has been reached for a course, the course is full. In order to request a seat in a closed course, you must follow the instructions in SECTION G. WAITLISTING FOR A CLOSED COURSE. The OMSCS program does not accept override requests. Please note that OMSCS Advising cannot register students for classes, nor can we add students to wait lists.
 
-# 5. What if the wait list for a course I want to register for is CLOSED?
+5. What if the wait list for a course I want to register for is CLOSED?
 
 If the wait list is full/closed when you are attempting to add yourself, please check back later. Students remove themselves from wait lists, and seats are added to courses (which removes students from the wait list), so there is a strong chance that a spot will become available at a later time.
 
-# 6. Why is there a limit on the number of seats for each course if this is an online program?
+6. Why is there a limit on the number of seats for each course if this is an online program?
 
 While we do not have physical space constraints, there are other factors that have to be taken into consideration for an online program this size. One example is that in order to maintain the integrity and academic rigor of the program, we have to hire an adequate number of TAs per a specific number of enrolled students. This is why we limit the number of waitlisted courses for each student so that we have a realistic idea of the demand for each course and can hire TAs accordingly (whenever possible). Additionally, some courses are unable to scale above a certain maximum while still providing an effective learning experience for students.
 
-# 7. Can OMSCS Advising tell me which courses are open currently?
+7. Can OMSCS Advising tell me which courses are open currently?
 
 Students can access up-to-date enrollment and wait list totals by performing a class search in OSCAR. You can perform a course look-up in OSCAR once you have logged in using your GT credentials — the full courses have a “C” in the first column, and the open courses have a checkbox that can be selected in order to enroll.
 
-# 8. What are the chances of enrolling in a class if I am waitlisted or if the class is closed?
+8. What are the chances of enrolling in a class if I am waitlisted or if the class is closed?
 
 We strive to give students an opportunity to register for a variety of courses. The number of available seats is determined primarily by the number of TAs available for each course. Unfortunately, advisors cannot predict if/when a course may have more seats added or if a wait list will be expanded. Also, we cannot guarantee students will be able to enroll in specific courses. Our best advice is to continue monitoring the courses you are interested in taking and/or the wait lists. Towards the end of Phase II, the wait lists will be removed, and you may
+
+Click here to return to Table of Contents
 ---
 have another opportunity to register for your desired course(s). More information regarding this will be forthcoming. Alternatively, you may review the degree requirements and try to find another course.
 
@@ -1122,8 +1046,6 @@ Unfortunately, the only thing you can do is add yourself back to the wait list a
 # 16. I received a “Campus Restriction” or “Major Restriction” error message when trying to add a course. What does this mean?
 
 If you receive the “Campus Restriction” or “Major Restriction” error message, this is because you are attempting to enroll in a course that is not part of the OMSCS program. As a reminder, most OMSCS courses will have a section of “O” followed by a two-digit number (example: O01, O02, O03, etc.).
-
-Please note that courses with the “OAN” section are for OMS Analytics students only, and courses with
 ---
 # 17. What is the difference between “L” and “ALP” in the “BAS” column in OSCAR?
 
@@ -1159,45 +1081,27 @@ Once you have successfully registered for a course, you should log into Canvas t
 
 Click here to return to Table of Contents
 ---
-# 23. Classes have started, and I cannot access my course materials and/or Canvas has not been set up for my course. Is this normal?
-
-As stated previously, course materials will be available sometime during the first week of classes. Unfortunately, we do not have control over when course materials will be available, nor do we have any additional information as to exactly when course materials will be available. Please note that some professors do not start their classes until later in the week, so you may not be able to view any course materials even if the semester technically has started already.
+23. Classes have started, and I cannot access my course materials and/or Canvas has not been set up for my course. Is this normal? As stated previously, course materials will be available sometime during the first week of classes. Unfortunately, we do not have control over when course materials will be available, nor do we have any additional information as to exactly when course materials will be available. Please note that some professors do not start their classes until later in the week, so you may not be able to view any course materials even if the semester technically has started already.
 
 If you register for a course during the first week that classes begin, please note that it can take up to 24 hours before you can access your course materials. If after this period of time you still cannot access your course materials, please contact canvas@gatech.edu for Canvas access.
 
-# 24. I successfully registered for a course, but Canvas is showing a different course prefix than what is displayed in OSCAR. How do I know if I registered for the correct section?
+24. I successfully registered for a course, but Canvas is showing a different course prefix than what is displayed in OSCAR. How do I know if I registered for the correct section? Instructors have the ability to edit the “display title” for a course in Canvas. Therefore, when crosslisted sections of different courses are being taught together, students may encounter times where the course prefix in Canvas is different than the one listed in OSCAR. For registration/degree-completion purposes, we will rely on your course registration according to Banner, not Canvas.
 
-Instructors have the ability to edit the “display title” for a course in Canvas. Therefore, when crosslisted sections of different courses are being taught together, students may encounter times where the course prefix in Canvas is different than the one listed in OSCAR. For registration/degree-completion purposes, we will rely on your course registration according to Banner, not Canvas.
+25. Can I be switched to another course once the registration period has ended? No – unfortunately, even if there are seats available, you cannot be switched to another course once the registration period has ended. If you no longer wish to be enrolled in the course, you will need to withdraw before the semester’s withdrawal deadline.
 
-# 25. Can I be switched to another course once the registration period has ended?
+26. What is the difference between dropping and withdrawing from a course? When a student drops a course, this action can only be done during active periods of registration (either in Phase I and/or Phase II). If a student drops a course, the course will not be reflected on their transcript. It will appear as if the student never registered for the course, according to their transcript. This means that the student will not have a record of enrollment for the term. If a student withdraws from a course (this is done after Phase II registration has ended and before the semester’s withdrawal deadline), this action will result in a “W” on the student’s transcript. If a student withdraws from a course (or courses) and receives a “W” on the transcript, this counts as a record of enrollment for that specific term.
 
-No – unfortunately, even if there are seats available, you cannot be switched to another course once the registration period has ended. If you no longer wish to be enrolled in the course, you will need to withdraw before the semester’s withdrawal deadline.
+27. If I withdraw from a course and change my mind, can I be re-added to the course? No – unfortunately, students cannot be re-added to a course once they have withdrawn. Please keep this in mind as you are deciding whether or not you wish to withdraw from the course (before the withdrawal deadline).
 
-# 26. What is the difference between dropping and withdrawing from a course?
+28. If I withdraw from a course/semester, do I need to submit a Petition to the Faculty form to enroll the next semester? No – as per Georgia Tech’s readmission policy, “With the exception of part-time graduate students, any student who withdraws during a term and wishes to return the following term must complete a Petition to the Faculty Form only.” Therefore, since OMSCS students are part-time graduate students, you do not need to submit a "Petition to the Faculty” form if you withdraw. Please keep in mind the Satisfactory Academic Progress policy as noted above when considering withdrawing from the semester.
 
-When a student drops a course, this action can only be done during active periods of registration (either in Phase I and/or Phase II). If a student drops a course, the course will not be reflected on their transcript. It will appear as if the student never registered for the course, according to their transcript. This means that the student will not have a record of enrollment for the term.
-
-If a student withdraws from a course (this is done after Phase II registration has ended and before the semester’s withdrawal deadline), this action will result in a “W” on the student’s transcript. If a student withdraws from a course (or courses) and receives a “W” on the transcript, this counts as a record of enrollment for that specific term.
-
-# 27. If I withdraw from a course and change my mind, can I be re-added to the course?
-
-No – unfortunately, students cannot be re-added to a course once they have withdrawn. Please keep this in mind as you are deciding whether or not you wish to withdraw from the course (before the withdrawal deadline).
-
-# 28. If I withdraw from a course/semester, do I need to submit a Petition to the Faculty form to enroll the next semester?
-
-No – as per Georgia Tech’s readmission policy, “With the exception of part-time graduate students, any student who withdraws during a term and wishes to return the following term must complete a Petition to the Faculty Form only.” Therefore, since OMSCS students are part-time graduate students, you do not need to submit a "Petition to the Faculty” form if you withdraw.
-
-Please keep in mind the Satisfactory Academic Progress policy as noted above when considering withdrawing from the semester.
-
-# 29. If I have an open OSI investigation for a course, or if I was found “responsible” at the conclusion of an OSI investigation for a course, am I permitted to withdraw or submit a Petition to the Faculty for a late withdrawal?
-
-Per the Registrar’s website: “If there is an alleged academic integrity violation pending, the student may not drop the course. The status of the alleged violation is defined as ‘pending’ when an incident has been submitted to the Office of Student Integrity and has generated an electronic ‘suspected academic misconduct’ notice that has been sent to the student. If the student is found responsible for any prohibited academic conduct, she/he will not be
+29. If I have an open OSI investigation for a course, or if I was found “responsible” at the conclusion of an OSI investigation for a course, am I permitted to withdraw or submit a Petition to the Faculty for a late withdrawal? Per the Registrar’s website: “If there is an alleged academic integrity violation pending, the student may not drop the course. The status of the alleged violation is defined as ‘pending’ when an incident has been submitted to the Office of Student Integrity and has generated an electronic ‘suspected academic misconduct’ notice that has been sent to the student. If the student is found responsible for any prohibited academic conduct, she/he will not be
 
 Click here to return to Table of Contents
 ---
-allowed to drop the course.”
+allowed to drop the course."
 
-Additionally: “If the student is found responsible for any prohibited academic conduct in a class, she/he will also not be allowed to withdraw from the term.”
+Additionally: "If the student is found responsible for any prohibited academic conduct in a class, she/he will also not be allowed to withdraw from the term."
 
 Finally, a course is not eligible for grade substitution if the student was found responsible for any academic misconduct in that course, regardless of how many times it is repeated.
 
@@ -1246,25 +1150,25 @@ Click here to return to Table of Contents
 ---
 # FAQs
 
-7. Why was I charged for health insurance?
+# 7. Why was I charged for health insurance?
 
 If you believe you have been erroneously charged for health insurance, please contact grad.ask@grad.gatech.edu for assistance. Note that you may be asked to complete a waiver application form.
 
-8. Who should I contact if I have questions regarding financial aid, tuition/fees, my financial student account, or other financial-related questions, such as deferring my previous student loans, tuition reimbursements for my employer, tax documents that need to be completed by the Institute, etc.?
+# 8. Who should I contact if I have questions regarding financial aid, tuition/fees, my financial student account, or other financial-related questions, such as deferring my previous student loans, tuition reimbursements for my employer, tax documents that need to be completed by the Institute, etc.?
 
 Please contact the Office of Scholarships and Financial Aid and/or the Bursar’s Office for assistance.
 
-9. Who should I contact for information regarding my 1098-T?
+# 9. Who should I contact for information regarding my 1098-T?
 
 Please contact the Bursar’s Office for more information regarding your 1098-T.
 
-10. Who should I contact if I have questions regarding refunds and/or refund eligibility?
+# 10. Who should I contact if I have questions regarding refunds and/or refund eligibility?
 
 Please contact the Bursar’s Office for more information regarding refunds. Keep in mind that you will receive NO refund if you are enrolled for more than one class and withdraw from only one course. You only are eligible for a partial refund if you completely withdraw from school (withdraw from ALL of your courses for the current term).
 
 # Taking Time Off
 
-1. Can I take a semester off?
+# 1. Can I take a semester off?
 
 OMSCS students may take up to two consecutive semesters off at any time after they have matriculated into the OMSCS program. However, if you take three or more consecutive semesters off, you must apply for readmission. Please note that the summer term counts as one of the consecutive semesters, even though students are not required to enroll in the summer term. Unfortunately, there is no guarantee you will be readmitted. For more information, please review the Registrar's Readmission Policy.
 
@@ -1274,7 +1178,7 @@ Please see the FAQ section entitled “Registration-Related Information” for a
 
 Please note: If you are a newly-admitted student and are not planning to attend your first semester, you will need to submit a request to defer your admission. Please refer to the “Deferring Admission” section of the FAQ for more information about how and when to submit this request.
 
-2. What is the process once students seek readmission?
+# 2. What is the process once students seek readmission?
 
 Students must complete the step-by-step instructions on the Registrar’s readmission website. After they have successfully submitted their readmission application (by following the step-by-step instructions), the information is sent to the Registrar’s Office where initial processing is completed. They then submit your readmission packet to our office, and we process everything on our end.
 
@@ -1290,8 +1194,8 @@ Reapplying (or submitting a full new application to the OMSCS program) is for ad
 
 To summarize:
 
-Current OMSCS students who have been academically dismissed and/or who have taken pree or more consecutive semesters off must seek readmission.
-Admitted students who have not yet matriculated into pe OMSCS program must reapply if pey are past pe one-year deferral time frame from peir original application term.
+- Current OMSCS students who have been academically dismissed and/or who have taken three or more consecutive semesters off must seek readmission.
+- Admitted students who have not yet matriculated into the OMSCS program must reapply if they are past the one-year deferral time frame from their original application term.
 
 # 4. If I am readmitted, will my previously-earned credits still count?
 
@@ -1317,25 +1221,37 @@ Students may be eligible for an approved Leave of Absence. Please review Section
 
 Please note the following regarding the Leave of Absence policy:
 
-The Leave of Absence cannot be approved retroactively.
-An approved Leave of Absence would be effective in a future term. Students on an approved Leave of Absence would not have to apply for readmission and would be able to retain peir email accounts during pe approved absence. Prior to returning, pe student would have to notify pe Registrar’s Office so pat peir record could be reactivated for re-entry.
+- The Leave of Absence cannot be approved retroactively.
+- An approved Leave of Absence would be effective in a future term. Students on an approved Leave of Absence would not have to apply for readmission and would be able to retain their email accounts during the approved absence. Prior to returning, the student would have to notify the Registrar’s Office so that their record could be reactivated for re-entry.
 ---
 # Leave of Absence
 
-- The Leave of Absence would cover eligible students for at least three and no more than seven semesters (including summer). If the seventh semester is a spring term, students may opt to return in either the summer or fall term.
-- Students on an approved Leave of Absence may not attend class or access other campus services.
-- The form to request an approved Leave of Absence is on the Registrar’s Office’s website.
+The Leave of Absence would cover eligible students for at least three and no more than seven semesters (including summer). If the seventh semester is a spring term, students may opt to return in either the summer or fall term.
+
+Students on an approved Leave of Absence may not attend class or access other campus services.
+
+The form to request an approved Leave of Absence is on the Registrar’s Office’s website.
+
 - Please be sure to use your advisor’s direct email address (NOT oms-advising@cc.gatech.edu) when submitting this form via DocuSign.
-- The Leave of Absence may be used more than once but for no more than seven total semesters during the student’s enrollment at Georgia Tech.
-- Students who have been placed on academic drop, suspended, or expelled for disciplinary reasons may not participate.
-- Students must clear up any other issues such as registration holds or providing any requested documentation prior to re-entry. The approved Leave of Absence does not override other considerations or restrictions on enrollment.
-- Students should apply for a Leave of Absence as soon as possible. Applications for a Leave of Absence will require review and signatures by the Office of the Dean of Students and the student’s major academic advisor. Other signature approvals, such as the Office of International Education and Financial Aid, also may need to be obtained.
+
+The Leave of Absence may be used more than once but for no more than seven total semesters during the student’s enrollment at Georgia Tech.
+
+Students who have been placed on academic drop, suspended, or expelled for disciplinary reasons may not participate.
+
+Students must clear up any other issues such as registration holds or providing any requested documentation prior to re-entry. The approved Leave of Absence does not override other considerations or restrictions on enrollment.
+
+Students should apply for a Leave of Absence as soon as possible. Applications for a Leave of Absence will require review and signatures by the Office of the Dean of Students and the student’s major academic advisor. Other signature approvals, such as the Office of International Education and Financial Aid, also may need to be obtained.
+
 - Students should bear in mind the time limits in determining the anticipated date of return.
 - As a reminder, readmission is required when three or more consecutive terms have been missed (the summer term counts as one of the consecutive semesters, even though students are not required to enroll in the summer term). However, once students have made the decision that they will have to or need to be out for three or more consecutive terms, and the students wish to return to Georgia Tech without being readmitted, the application for a Leave of Absence should be filed with the Registrar’s Office.
 - The clock begins when the student does not enroll for a third consecutive term. The Leave of Absence would have to be in effect for the third consecutive missed term to avoid readmission.
-- Students must file a Return from Leave of Absence form to return. If the leave exceeds the seven-semester time frame, the student must apply for readmission. The form is available on the Registrar’s Office’s website under the “Forms” menu.
-- As stated previously, the Leave of Absence, if approved, would be effective in a future term. It will not be approved to be effective in the term in which the application is made. It in no way supplants or replaces any other policy. If a student needs to withdraw from classes within a given term, they should follow the standard withdrawal process, and if a Leave of Absence is needed or desired, it would be effective for a future term(s) only as approved.
-- Applications for a Leave of Absence are due by:
+
+Students must file a Return from Leave of Absence form to return. If the leave exceeds the seven-semester time frame, the student must apply for readmission. The form is available on the Registrar’s Office’s website under the “Forms” menu.
+
+As stated previously, the Leave of Absence, if approved, would be effective in a future term. It will not be approved to be effective in the term in which the application is made. It in no way supplants or replaces any other policy. If a student needs to withdraw from classes within a given term, they should follow the standard withdrawal process, and if a Leave of Absence is needed or desired, it would be effective for a future term(s) only as approved.
+
+Applications for a Leave of Absence are due by:
+
 - Fall – July 1
 - Spring – December 1
 - Summer – April 1
@@ -1351,14 +1267,15 @@ Please note that our departmental deadline is earlier than the posted Institute 
 
 After you submit your Online Application for Graduation (OAG) and completed Program of Study (POS) form, your
 ---
-# advisor will conduct several audits on your record to ensure you are on track to graduate by the end of the term:
+advisor will conduct several audits on your record to ensure you are on track to graduate by the end of the term:
 
-● The first audit is completed prior to pe start of Phase II registration for your graduation term. The purpose of pis audit is to ensure you are enrolled in pe course(s) you need to fulfill your degree requirements.
-● The second audit is completed after Phase II registration has ended to ensure pat you remained registered in pe appropriate course(s).
-● The pird audit is completed after pe semester’s wipdrawal deadline to ensure you did not wipdraw from a course(s) you need to graduate.
-● The final audit is completed after grades have been released for pe semester so pat we can confirm pat you successfully met all of your degree requirements.
+|●|The first audit is completed prior to the start of Phase II registration for your graduation term. The purpose of this audit is to ensure you are enrolled in the course(s) you need to fulfill your degree requirements.|
+|---|---|
+|●|The second audit is completed after Phase II registration has ended to ensure that you remained registered in the appropriate course(s).|
+|●|The third audit is completed after the semester’s withdrawal deadline to ensure you did not withdraw from a course(s) you need to graduate.|
+|●|The final audit is completed after grades have been released for the semester so that we can confirm that you successfully met all of your degree requirements.|
 
-# When registering for my final semester, what happens if I am waitlisted for a course(s) that I need to graduate, or the wait list for the course(s) I need to graduate is full?
+When registering for my final semester, what happens if I am waitlisted for a course(s) that I need to graduate, or the wait list for the course(s) I need to graduate is full?
 
 As we have done in previous semesters, we will ensure that official degree candidates (students who have submitted the OAG and a completed POS form to their advisor by the departmental deadline) are registered for the specialization course(s) that they need to graduate. As we are conducting our first audit, we make note of any degree candidates who are waitlisted for or not yet waitlisted for a specific specialization course(s) that they need. As we get closer to the Phase II registration period, we will bump these students to the top of the wait list(s). There may be an exception to this process for specific courses, such as CS 6515, but our office will send detailed instructions regarding this, if applicable.
 
@@ -1366,27 +1283,27 @@ Please note that we only do this for specialization courses, not “free” elec
 
 As with any waitlisted course, please be sure to monitor your account carefully and frequently to ensure that you do not miss a wait list notification, if you receive one. If you are not yet on the wait list, be sure to monitor the course, add yourself to the wait list as soon as a space becomes available, and notify your advisor once you are on the wait list if you need to be prioritized as an official degree candidate.
 
-# What resources should I consult as a degree candidate?
+What resources should I consult as a degree candidate?
 
 Please visit the Registrar’s “Degree Candidate” website for helpful information. There are additional links available on the Commencement website that may be of interest to you, including information regarding the commencement ceremony. The Commencement Office’s contact information can be found online if you have any questions.
 
-# Am I invited to participate in the commencement ceremony?
+Am I invited to participate in the commencement ceremony?
 
 OMSCS students are invited to participate in the commencement ceremonies. Please note that commencement ceremonies only take place in the spring and fall terms. If you are a summer graduate, you would be invited to attend the fall commencement ceremony. For more information regarding commencement ceremonies, please visit the Commencement website.
 
-# How long after commencement will I receive my diploma?
+How long after commencement will I receive my diploma?
 
 Diplomas are printed by an outside company, and it typically takes eight to twelve weeks after the commencement ceremony for the diplomas to be printed and mailed.
 
-# Who should I contact if I need to update my diploma address or if I have other questions regarding my diploma?
+Who should I contact if I need to update my diploma address or if I have other questions regarding my diploma?
 
 Please send a message from your GT email account to diplomas@registrar.gatech.edu for assistance with updating your diploma address or if you have any other questions regarding your diploma.
 
-# I have applied to graduate by the end of the semester, and I need a document to prove this. Are there any documents that the Institute can provide to show that I am approaching my graduation date?
+I have applied to graduate by the end of the semester, and I need a document to prove this. Are there any documents that the Institute can provide to show that I am approaching my graduation date?
 
 As per the Registrar’s website, “[s]tudents who have petitioned for a degree for the term may request a letter stating that they have a ‘pending’ degree and that the degree will be awarded when all requirements for the degree are completed. This option is not available for students who have already been awarded a degree. Students who wish to have verification of an awarded degree should request a Degree Verification instead.” Please visit the website linked above for more information on how to request this letter.
 
-# If I am not sure that I will meet the degree requirements by the end of the term, am I still permitted to attend the commencement ceremony?
+If I am not sure that I will meet the degree requirements by the end of the term, am I still permitted to attend the commencement ceremony?
 
 Since grades are not finalized until after the commencement ceremony, there have been times when students
 ---
@@ -1394,9 +1311,13 @@ have attended the commencement ceremony but unfortunately did not earn the grade
 
 Therefore, if you are a degree candidate and have followed the steps on the Commencement Office’s website to attend the ceremony, you should be eligible to attend, even if you are not sure you will obtain the grade(s) you need. Please feel free to contact the Commencement Office directly if you have additional questions regarding this. As a reminder, the Commencement Office’s contact information can be found online.
 
-10. When will I know that I completed my degree requirements and will graduate from the OMSCS program? Grades typically are released on the Tuesday after the commencement ceremony. Our office performs the final degree audit once grades have been posted so that degrees can be conferred by the Thursday of that same week. Therefore, as explained previously, it unfortunately is possible for students to attend the commencement ceremony and later discover that they did not earn the grade(s) they needed to fulfill the degree requirements. We will notify students if this is the case, but fortunately this does not happen often.
+# 10. When will I know that I completed my degree requirements and will graduate from the OMSCS program?
 
-11. What happens if I apply to graduate and do not meet the degree requirements by the end of that term? If you did not meet the degree requirements by the end of the term for which you applied to graduate, your graduation application would be inactivated. To clarify, these are the most common reasons why your graduation application would need to be inactivated:
+Grades typically are released on the Tuesday after the commencement ceremony. Our office performs the final degree audit once grades have been posted so that degrees can be conferred by the Thursday of that same week. Therefore, as explained previously, it unfortunately is possible for students to attend the commencement ceremony and later discover that they did not earn the grade(s) they needed to fulfill the degree requirements. We will notify students if this is the case, but fortunately this does not happen often.
+
+# 11. What happens if I apply to graduate and do not meet the degree requirements by the end of that term?
+
+If you did not meet the degree requirements by the end of the term for which you applied to graduate, your graduation application would be inactivated. To clarify, these are the most common reasons why your graduation application would need to be inactivated:
 
 - You did not register for the courses you needed to fulfill your degree requirements by the end of the term.
 - You withdrew from a course(s) you needed to fulfill your degree requirements by the end of the term.
@@ -1405,11 +1326,17 @@ Therefore, if you are a degree candidate and have followed the steps on the Comm
 
 Once your graduation application was inactivated, you would need to re-apply for graduation and submit updated graduation materials as instructed by OMSCS Advising for your new anticipated graduation term.
 
-12. What happens if I pass my courses and fulfill my course/specialization requirements, but my cumulative GPA is below 3.0? Even if you complete your courses and ultimately fulfill your course/specialization requirements for the MSCS degree, you cannot graduate from the OMSCS program if your cumulative GPA is not 3.0 or higher. Therefore, you would be required to take additional courses beyond the required 30 hours in order to increase your GPA and meet the minimum requirement of a 3.0. Please be sure to contact your advisor directly for further guidance, especially if you are considering repeating a course, as students cannot repeat courses in which the grade of “B” or higher has been earned previously.
+# 12. What happens if I pass my courses and fulfill my course/specialization requirements, but my cumulative GPA is below 3.0?
 
-13. Is it possible to graduate with honors/distinctions from the OMSCS program? Graduating with distinction/honors is not available at the graduate level at Georgia Tech. Please visit https://registrar.gatech.edu/info/degree-candidate-faq#about-honors for more information.
+Even if you complete your courses and ultimately fulfill your course/specialization requirements for the MSCS degree, you cannot graduate from the OMSCS program if your cumulative GPA is not 3.0 or higher. Therefore, you would be required to take additional courses beyond the required 30 hours in order to increase your GPA and meet the minimum requirement of a 3.0. Please be sure to contact your advisor directly for further guidance, especially if you are considering repeating a course, as students cannot repeat courses in which the grade of “B” or higher has been earned previously.
 
-14. Can I continue taking OMSCS courses after I graduate from the program? It is possible for students to continue taking courses after they have graduated. In the semester you are graduating, you should tell your academic advisor (after your graduating term’s withdrawal deadline) that you wish to become a special/non-degree student in the next (or in a future) term. Term-specific information regarding the exact timeline and deadline to submit the required form should be available after that term’s withdrawal deadline.
+# 13. Is it possible to graduate with honors/distinctions from the OMSCS program?
+
+Graduating with distinction/honors is not available at the graduate level at Georgia Tech. Please visit https://registrar.gatech.edu/info/degree-candidate-faq#about-honors for more information.
+
+# 14. Can I continue taking OMSCS courses after I graduate from the program?
+
+It is possible for students to continue taking courses after they have graduated. In the semester you are graduating, you should tell your academic advisor (after your graduating term’s withdrawal deadline) that you wish to become a special/non-degree student in the next (or in a future) term. Term-specific information regarding the exact timeline and deadline to submit the required form should be available after that term’s withdrawal deadline.
 
 To confirm, special/non-degree requests are not processed until after degrees have been awarded by the Registrar’s Office at the end of the term, as the advisors do not want to request the status change in the unfortunate event that a student did not fulfill the degree requirements that term as planned.
 
@@ -1422,20 +1349,22 @@ Please keep in mind the following regarding the special/non-degree student statu
 - There is no overall limit on how many courses you can take as a special/non-degree student.
 - You would earn credits in the sense that if you wanted to transfer them to another institution, you could. However, at Georgia Tech, the credits would not count for anything.
 - Courses taken as a special/non-degree student will alter your GPA because the GPA does not start over
-
-Click here to return to Table of Contents
 ---
-# 15. Can I continue being a TA after I graduate from the program?
+with a new class standing. However, for the purposes of your resume, whatever your GPA was when your degree was awarded will be your MS GPA.
+
+● Courses taken as a special/non-degree student will appear on your transcript and become a part of your student record (this is not optional).
+
+15. Can I continue being a TA after I graduate from the program?
 
 This is possible, but it is more complicated than taking courses after graduating. You would have to be hired as a part-time instructor. The hiring takes more time, and you have to consent to a background check. Therefore, you should be absolutely sure that you really want to continue being a TA before you apply.
 
 Also, please note that international students who are not living in the U.S. most likely cannot be hired as TAs, as the Institute has to be able to verify your identity and conduct a background check, and you have to have a Social Security number to do this. International students who are not living in the U.S. may not work as TAs for free. Unless we hire them as a TA, there is no way of holding them accountable for their work as a TA.
 
-# 16. What technology-related services will I retain as a graduate of Georgia Tech?
+16. What technology-related services will I retain as a graduate of Georgia Tech?
 
 Please visit https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027556 and https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0027561 for information on what will happen to your GT accounts once you have graduated from the OMSCS program. If you have any questions regarding this, please contact OIT directly. Their contact information can be found on their website.
 
-# 17. How can I request a degree verification from the Institute?
+17. How can I request a degree verification from the Institute?
 
 Please visit the Registrar’s website for information on how to request a degree verification.
 
@@ -1460,81 +1389,93 @@ Click here to return to Table of Contents
 ---
 # Office of Information Technology
 
-|Phone:|(404) 385-5555|
-|---|---|
-|Email:|Please visit https://www.oit.gatech.edu/contact-us to open a ticket with their office.|
+Phone: (404) 385-5555
+
+Email: Please visit https://www.oit.gatech.edu/contact-us to open a ticket with their office.
 
 # Office of International Education
 
-|Phone:|(404) 894-7475|
-|---|---|
-|Email:|info@oie.gatech.edu|
+Phone: (404) 894-7475
+
+Email: info@oie.gatech.edu
+
+Website: https://www.oie.gatech.edu/
 
 # Office of Scholarships and Financial Aid
 
-|Phone:|(404) 894-2000|
-|---|---|
-|Email:|Please complete the webform available online at https://finaid.gatech.edu/contacting-our-office|
+Phone: (404) 894-2000
+
+Email: Please complete the webform available online at https://finaid.gatech.edu/contacting-our-office
+
+Website: https://finaid.gatech.edu/
 
 # Office of Student Integrity
 
-|Phone:|(404) 894-2566|
-|---|---|
-|Email:|osi@mail.gatech.edu|
+Phone: (404) 894-2566
+
+Email: osi@mail.gatech.edu
+
+Website: https://osi.gatech.edu/
 
 # OMSCS Help Desk
 
-Link:
-https://pe.gatech.edu/contact-omscs
+Website: https://pe.gatech.edu/contact-omscs
+
+Assistance for prospective students regarding general program information, admissions, and application-related questions
 
 # Registrar’s Office
 
-|Phone:|(404) 894-4150|
-|---|---|
-|Email:|oms@registrar.gatech.edu|
+Phone: (404) 894-4150
+
+Email: oms@registrar.gatech.edu
+
+Website: https://registrar.gatech.edu/
 
 # STAMPS Health Services
 
-|Phone:|(404) 894-1420|
-|---|---|
-|Email:|Please visit the website to complete a web form.|
+Phone: (404) 894-1420
+
+Email: Please visit the website to complete a web form.
+
+Website: https://health.gatech.edu/
 
 # Technology Services Organization
 
-|Phone:|(404) 894-7065|
-|---|---|
-|Email:|helpdesk@cc.gatech.edu|
+Phone: (404) 894-7065
+
+Email: helpdesk@cc.gatech.edu
+
+Website: https://support.cc.gatech.edu/
 
 # Veteran’s Services
 
-|Phone:|(404) 894-4150|
-|---|---|
-|Email:|veterans@registrar.gatech.edu|
+Phone: (404) 894-4150
+
+Email: veterans@registrar.gatech.edu
+
+Website: https://registrar.gatech.edu/veterans-services/
 ---
 # SECTION M. GET CONNECTED!
 
 You are encouraged to connect through social media:
 
-Facebook (OMSCS Official)
-Twitter (OMSCS Official)
-OMSCS reddit
-This is not an official OMSCS page; however, it is monitored by OMSCS employees periodically. It is run by students, for students, and is a great way to connect wip your classmates across pe globe.
-OMSCS MeWe
-As wip pe reddit community, pis is not an official OMSCS page. It again is run by students and is anoper great way to connect wip your classmates.
+- Facebook (OMSCS Official)
+- Twitter (OMSCS Official)
+- OMSCS reddit
+- This is not an official OMSCS page; however, it is monitored by OMSCS employees periodically. It is run by students, for students, and is a great way to connect with your classmates across the globe.
+- OMSCS MeWe
+- As with the reddit community, this is not an official OMSCS page. It again is run by students and is another great way to connect with your classmates.
 
 # SECTION N. OMSCS ADVISING CONTACT INFORMATION
 
-For all OMSCS Advising questions, please send an email from your GT email account to oms-advising@cc.gatech.edu. Please be sure to include your full name and nine-digit gtID number (90XXXXXXX), replacing the first two digits with “xx”. Once you send an email to this address, you will receive an automated response that will include a ticket number – this number is assigned to your inquiry directly and is confirmation that we have received your message.
-
+- For all OMSCS Advising questions, please send an email from your GT email account to oms-advising@cc.gatech.edu. Please be sure to include your full name and nine-digit gtID number (90XXXXXXX), replacing the first two digits with “xx”. Once you send an email to this address, you will receive an automated response that will include a ticket number – this number is assigned to your inquiry directly and is confirmation that we have received your message.
 - Once we respond to your message, you will receive two emails: one with our response and the other stating that your ticket has been resolved. You should receive our response first; however, if you receive the “resolved ticket” message first, please be patient, as the response email should arrive soon. Please check to ensure it did not go to another folder (like spam) before emailing us to say that you did not receive a response.
 - If you have further questions after we answer your email, you MUST create a new ticket by sending a new (separate) message from your GT email account to oms-advising@cc.gatech.edu. If you reply to our response, you most likely will not receive a reply because these are not directed back to the oms-advising@cc.gatech.edu account.
 - If you are instructed to contact your advisor directly, please do so in a separate email and include the ticket number in your message. Do not forward the email to your advisor, as these messages are not always routed to the advisor’s inbox, so you may not receive a reply.
 - When you send a message to oms-advising@cc.gatech.edu, please do not copy other people/departments on the message – OMSCS Advising will direct you to another department if necessary. Likewise, please do not copy the oms-advising@cc.gatech.edu account on your messages to other people/departments.
 - Please allow 24-48 business hours as a standard response time. During certain times of the year, such as registration and the end of the term, the response time may increase. We greatly appreciate your patience and understanding.
-
-Please do NOT reply or send messages to the omscs-official@cc.gatech.edu account, as this could result in all OMSCS students receiving your message. As a reminder, please pay special attention to any messages sent from omscs-official@cc.gatech.edu, as important announcements typically are sent from this account.
-
-While it is not required, we also encourage students to subscribe to the omscs-announce@cc.gatech.edu account for non-academic events and announcements by completing this webform.
+- Please do NOT reply or send messages to the omscs-official@cc.gatech.edu account, as this could result in all OMSCS students receiving your message. As a reminder, please pay special attention to any messages sent from omscs-official@cc.gatech.edu, as important announcements typically are sent from this account.
+- While it is not required, we also encourage students to subscribe to the omscs-announce@cc.gatech.edu account for non-academic events and announcements by completing this webform.
 
 Again, welcome to Georgia Tech and the OMSCS program! We look forward to working with you.
 
@@ -1544,3 +1485,7 @@ OMSCS Advising
 College of Computing
 Georgia Institute of Technology
 oms-advising@cc.gatech.edu
+
+Click here to return to Table of Contents
+
+39
